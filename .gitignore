@@ -20,3 +20,4 @@ Thumbs.db
 
 # 记忆文件（含个人信息）
 memory.json
+chroma_db/
